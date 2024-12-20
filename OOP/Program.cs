@@ -29,6 +29,7 @@ namespace OOP
     {
         static void Main(string[] args)
         {
+            //
             //TypeB t = new TypeB();
             //Console.WriteLine(t.d);
             #region Question1
